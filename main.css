@@ -41,7 +41,7 @@ form{
     border-radius: 3px;
     padding: 10px 20px;
     width: 300px;
-    margin-left: 333px;
+    margin: auto;
 }
 
 label {
